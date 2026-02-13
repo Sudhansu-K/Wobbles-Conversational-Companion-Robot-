@@ -19,8 +19,8 @@ int override_exp=0;
 int progress_load=1;
 int y_position=55;
 
-#define Wifi_network "OnePlus Nord2 5G"
-#define Wifi_password "sudhansu"
+#define Wifi_network ""
+#define Wifi_password ""
 #define Timeout 7000
 #define urladdress "http://10.53.7.6:8000/live.mp3"
 
